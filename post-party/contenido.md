@@ -20,11 +20,15 @@ Linux puede superficialmente parecer 'menos cuidado' que Windows, por qué esta 
 
 ### La elección: Las distribuciones de software
 
-Qué son, que hacen
+Qué son, que hacen, tipos
 
-Tipos: según quien las mantiene: comunidad y corporativa, según como se publican: rolling release, y release based
+ - Según quien las mantiene: comunidad y corporativa
+ - Según como se publican: rolling release, y release based
+ - Mutables e Inmutables, Declarativas
 
 En que se diferencian y para qué casos de uso cada una es adecuada con ejemplos
+
+Recomendar lo facil: Debian, Arch
 
 ### La elección: El escritorio
 
@@ -35,6 +39,8 @@ Que son exactamente, de que se componen
 Diferencia entre Desktop Environment y Window Manager
 
 Display servers: X11 y Wayland
+
+Dar una lista de algunas y como se ven: Xfce, GNOME, KDE, Cinnamon; y algunos ejemplos de como puede verse sway, bspwm, dwm, etc
 
 ### Instalando software en Linux: package managers
 
@@ -56,7 +62,13 @@ Evitarlo lo maximo posible, solo cuando sea impepinablemente necesario
 
 Qué es Wine, qué es Proton
 
-Cuando utiizar Wine, Bottles, Proton y Lutris, en ultima instancia WinBoat
+Cuando utilizar Wine, Bottles, en ultima instancia WinBoat
+
+#### Gaming en Linux
+
+Juegos libres, juegos con soporte nativo, juegos con soporte de proton, juegos sin soporte nativo, anticheat, VMs
+
+Que es Proton y Lutris, cuando utilizarlos. DXVK
 
 ## Qué es el Software Libre
 
@@ -77,7 +89,7 @@ al desarrollo de la humanidad en su conjunto
 
 ### La comunidad, el desarrollo común, por y para los usuarios
 
-Como se organiza el ecosistema en proyectos y comunidades
+Como se organiza el ecosistema en proyectos y comunidades, ejemplos: Linux, FreeDesktop
 
 El proceso del desarrollo libre
 
