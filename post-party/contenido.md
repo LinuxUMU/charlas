@@ -1,0 +1,91 @@
+# Titulo
+
+## Presentación del Club
+
+Qué es LinuxUMU y que hace brevemente, que hacemos aquí
+
+## Qué es Linux
+
+El ecosistema, la modularización del software, el kernel de Linux, los programas de GNU, etc
+
+Historia de Linux y el software libre
+
+### Windows y Linux
+
+Por qué la Informática va a morir en Windows, por qué Linux es la consecuencia natural
+de la inviabilidad de Windows y el concepto software privativo en esta sociedad rapidamente progresante
+
+Cuan mejor es el entorno y ecosistema de Linux con respecto al de Windows. Por qué
+Linux puede superficialmente parecer 'menos cuidado' que Windows, por qué esta forma de percepción suele ser erronea
+
+### La elección: Las distribuciones de software
+
+Qué son, que hacen
+
+Tipos: según quien las mantiene: comunidad y corporativa, según como se publican: rolling release, y release based
+
+En que se diferencian y para qué casos de uso cada una es adecuada con ejemplos
+
+### La elección: El escritorio
+
+Una parte más del sistema operativo, la elección más personal del usuario
+
+Que son exactamente, de que se componen
+
+Diferencia entre Desktop Environment y Window Manager
+
+Display servers: X11 y Wayland
+
+### Instalando software en Linux: package managers
+
+Como buscar software en los sitios apropiados, como instalar y administrar paquetes
+
+AppImage y Flatpak, tarballs y binarios, curl | bash
+
+### Ejecutando aplicaciones de Windows en Linux
+
+Reto: Preguntar software que creen que no corre en Linux. En caso de software solo
+de Windows, presentar los grados de adaptación:
+
+ - Buscar alternativa de software libre
+ - Buscar alternativa privativa para Linux
+ - Ejecutar bajo Wine
+ - Ejecutar bajo VM
+
+Evitarlo lo maximo posible, solo cuando sea impepinablemente necesario
+
+Qué es Wine, qué es Proton
+
+Cuando utiizar Wine, Bottles, Proton y Lutris, en ultima instancia WinBoat
+
+## Qué es el Software Libre
+
+### Software privativo: la falsa noción de propiedad intelectual
+
+Primero, que es el software privativo, las licencias privativas, el DRM. Ejemplos.
+
+Por qué esto limita el progreso de la humanidad con fines capitalistas, y no se ha de permitir
+
+### Software Libre: el camino hacia la verdad
+
+Que es, diferencia entre free software y open source. Definiciones.
+
+Tipos de licencias, restrictivas, permitivas.
+
+Por qué esta forma de software es la verdadera forma de contribuir significativamente
+al desarrollo de la humanidad en su conjunto
+
+### La comunidad, el desarrollo común, por y para los usuarios
+
+Como se organiza el ecosistema en proyectos y comunidades
+
+El proceso del desarrollo libre
+
+Las empresas dentro del ecosistema libre: ejemplo Red Hat
+
+## Conclusiones
+
+Conclusiones y despedida
+
+Recordar la existencia del club
+
