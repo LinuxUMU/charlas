@@ -95,6 +95,14 @@ El proceso del desarrollo libre
 
 Las empresas dentro del ecosistema libre: ejemplo Red Hat
 
+### La lucha por la prosperidad humana
+
+El software y la lucha: el trabajo
+
+El progreso hacia **donde**
+
+Más allá del capitalismo
+
 ## Conclusiones
 
 Conclusiones y despedida
