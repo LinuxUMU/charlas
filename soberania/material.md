@@ -2,7 +2,7 @@
 
 ## Historia de estrategia del software privativo y del espionaje industrial contra naciones y la libertad
 
-### Espionage y ataques de EEUU y Israel
+### Espionaje y ataques de EEUU y Israel
 
  - [https://es.wikipedia.org/wiki/ECHELON](https://es.wikipedia.org/wiki/ECHELON)
  - [https://epthinktank.eu/2014/10/27/echelon-affair-history-of-the-investigation-and-its-significance-today/](https://epthinktank.eu/2014/10/27/echelon-affair-history-of-the-investigation-and-its-significance-today/)
