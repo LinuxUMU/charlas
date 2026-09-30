@@ -6,7 +6,8 @@ Qué es LinuxUMU y que hace brevemente, que hacemos aquí
 
 ## Qué es Linux
 
-El ecosistema, la modularización del software, el kernel de Linux, los programas de GNU, etc
+El ecosistema, la modularización del software, el kernel de Linux, los programas de GNU,
+proyectos y comunidades como systemd, freedesktop, cosas OpenBSD, etc
 
 Historia de Linux y el software libre
 
@@ -42,11 +43,50 @@ Display servers: X11 y Wayland
 
 Dar una lista de algunas y como se ven: Xfce, GNOME, KDE, Cinnamon; y algunos ejemplos de como puede verse sway, bspwm, dwm, etc
 
+### El sistema de archivos: FHS
+
+ - /
+ - /boot/efi
+ - /usr -> share
+ - /usr/local ->
+ - /bin
+ - /lib
+ - /var
+ - /srv
+ - /opt
+ - /tmp
+ - /run
+ - /proc
+ - /sys
+ - /dev
+
 ### Instalando software en Linux: package managers
 
 Como buscar software en los sitios apropiados, como instalar y administrar paquetes
 
 AppImage y Flatpak, tarballs y binarios, curl | bash
+
+### Navegando Linux: la terminal
+
+No tengais miedo, pues la terminal es libertad
+
+ - Navegar: cd, ls, find
+ - Ayuda: man, apropos
+ - Manejo: cp, mv, rm, chmod, chown
+ - Compresión: tar, zip/unzip
+ - Observabilidad: ps, top/htop, uptime, sensors
+ - Descargar: curl, wget
+ - Variables: export, env, $PATH, $USER
+
+### Virtualización bien
+
+Diferencia entre VM y contenedor
+
+KVM, LXC, QEMU y libvirtd sobre VirtualBox
+
+Convertir ova/vmdk a qcow2
+
+virt-manager
 
 ### Ejecutando aplicaciones de Windows en Linux
 
