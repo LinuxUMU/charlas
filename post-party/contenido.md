@@ -108,7 +108,9 @@ Cuando utilizar Wine, Bottles, en ultima instancia WinBoat
 
 Juegos libres, juegos con soporte nativo, juegos con soporte de proton, juegos sin soporte nativo, anticheat, VMs
 
-Que es Proton y Lutris, cuando utilizarlos. DXVK
+Que es Proton, ProtonGE y launchers como Lutris, cuando utilizarlos. wine y dxvk, vkd3d
+
+Recurso ProtonDB
 
 ## Qué es el Software Libre
 
