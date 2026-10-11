@@ -71,12 +71,17 @@ AppImage y Flatpak, tarballs y binarios, curl | bash
 No tengais miedo, pues la terminal es libertad
 
  - Navegar: cd, ls, find
- - Ayuda: man, apropos
  - Manejo: cp, mv, rm, chmod, chown
  - Compresión: tar, zip/unzip
  - Observabilidad: ps, top/htop, uptime, sensors
  - Descargar: curl, wget
  - Variables: export, env, $PATH, $USER
+
+#### Como encontrar ayuda sin recurrir a la LLM
+
+Manpages: man, apropos
+
+A las malas, ddg, foros, etc
 
 ### Virtualización bien
 
